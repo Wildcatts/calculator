@@ -1,6 +1,6 @@
 # toy project : calculator
 <p align="center">
-  <img src="https://github.com/Wildcatts/calculator/assets/104709955/7dc83ea9-f11a-4edb-8b0e-49d086df002a" width="50%" style="float:left">
+  <img src="https://github.com/Wildcatts/calculator/assets/104709955/41cb561b-9920-4817-ba80-5dda90382b52" width="50%" style="float:left">
 </p>
 
 ---
